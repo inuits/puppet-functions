@@ -1,0 +1,6 @@
+This puppet module is a placeholder for some general (parser) functions
+to be used in your manifests.
+
+Example: 
+  $str = 'SomeStringXXxx'
+  $str_lower = str_downcase($str)
